@@ -1,7 +1,6 @@
 # PrasheebaB
 
-Ex 1 : 
-       Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
+Ex 1 : Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
 
        Creational Design Patterns:Singleton Pattern.java,FactoryMethodPattern.java
        
