@@ -2,7 +2,7 @@
 
 Ex 1 : Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
 
-       Creational Design Patterns:Singleton Pattern.java,FactoryMethodPattern.java
+       Creational Design Patterns:SingletonPattern.java,FactoryMethodPattern.java
        
        Structural Design Patterns:AdapterPattern.java,DecoratorPattern.java
        
