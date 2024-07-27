@@ -1,9 +1,11 @@
 # PrasheebaB
 
 Ex 1 : Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
-       Creational Design Patterns:Singleton Pattern.java,FactoryMethodPattern.java                           
-       Structural Design Patterns:AdapterPattern.java,DecoratorPattern.java
 
+       Creational Design Patterns:Singleton Pattern.java,FactoryMethodPattern.java
+       
+       Structural Design Patterns:AdapterPattern.java,DecoratorPattern.java
+       
 1.Behavioral Design Patterns:
 Observer Pattern: Demonstrated by a weather station system where multiple display units (observers) update when the weather changes.
 Strategy Pattern: Demonstrated by a payment system that processes different payment methods.
@@ -20,6 +22,7 @@ Ex 2 : 4. Smart Home System Programming Exercise:
  Problem Statement
  Create a simulation for a Smart Home System that allows the user to control different smart devices such as lights, thermostats, and door 
 locks via a central hub. The user should be able to set schedules, automate tasks, and view the status of each device.
+
  Functional Requirements
  1. Initialize the Smart Home System with different devices, each having their own unique ID and type (light, thermostat, door lock).
  2. Implement features to:
@@ -27,6 +30,7 @@ locks via a central hub. The user should be able to set schedules, automate task
  Schedule devices to turn on/off at a particular time
  Automate tasks based on triggers (e.g., turning off lights when the thermostat reaches a certain temperature)
  3. Optional: Provide the ability to add or remove devices dynamically.
+    
  Key Focus
  1. Behavioral Pattern: Use the Observer Pattern to update all devices when a change occurs in the system.
  2. Creational Pattern: Use the Factory Method for creating instances of different smart devices.
