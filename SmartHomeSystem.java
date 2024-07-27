@@ -61,7 +61,7 @@ public class SmartHomeSystem {
         int id = device.getId();
         String status = device.getStatus();
         
-        // Ensure proper formatting based on device type
+      
         if ("Thermostat".equals(type)) {
             System.out.println(type + " " + id + " is " + status + ".");
         } else if ("Light".equals(type)) {
