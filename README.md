@@ -1,6 +1,7 @@
 # PrasheebaB
 
-Ex 1 : Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
+Ex 1 : 
+       Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
 
        Creational Design Patterns:Singleton Pattern.java,FactoryMethodPattern.java
        
@@ -8,14 +9,17 @@ Ex 1 : Behavioral Design Patterns:StrategyPattern.java,ObserverPattern.java
        
 1.Behavioral Design Patterns:
 Observer Pattern: Demonstrated by a weather station system where multiple display units (observers) update when the weather changes.
+
 Strategy Pattern: Demonstrated by a payment system that processes different payment methods.
 
 2.Creational Design Patterns:
 Singleton Pattern: Demonstrated by a logger system ensuring only one instance of the logger is used.
+
 Factory Method Pattern: Demonstrated by a notification system that creates different types of notifications (email, SMS).
 
 3.Structural Design Patterns:
 Adapter Pattern: Demonstrated by an image viewer application that displays different image formats using a common interface.
+
 Decorator Pattern: Demonstrated by a text editor that adds different features (bold, italic) to a text.
 
 Ex 2 : 4. Smart Home System Programming Exercise:
