@@ -26,6 +26,6 @@ public class SingletonPattern {
         logger1.log("This is the first log message.");
         logger2.log("This is the second log message.");
 
-        System.out.println(logger1 == logger2);  // Should print true
+        System.out.println(logger1 == logger2);  
     }
 }
